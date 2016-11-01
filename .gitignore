@@ -1,3 +1,13 @@
+# Blender
+*.blend1
+*.blend2
+*.blend3
+
+# FreeCAD
+*.fcstd1
+*.fcstd2
+*.fcstd3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
