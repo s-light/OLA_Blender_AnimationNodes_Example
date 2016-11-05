@@ -1,8 +1,13 @@
+# renderings
+*.webm
+
+
 # Blender
 backup_startupfile.blend
 *.blend1
 *.blend2
 *.blend3
+*.bak
 
 # FreeCAD
 *.fcstd1
